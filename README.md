@@ -1,2 +1,2 @@
-# skinopathy
+# Skinopathy DataSet
 Open Source DataSet
